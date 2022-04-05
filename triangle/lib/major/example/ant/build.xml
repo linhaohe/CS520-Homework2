@@ -57,7 +57,7 @@
             <classpath path="bin"/>
             <batchtest fork="false">
                 <fileset dir="test">
-                    <include name="**/*Test*.java"/>
+                    <include name="**/*TestTicTacToeGame*.java"/>
                 </fileset>
             </batchtest>
         </junit>
@@ -74,7 +74,7 @@
 			
 			<batchtest fork="no">
                 <fileset dir="test">
-                    <include name="**/*Test*.java"/>
+                    <include name="**/*TestTicTacToeGame*.java"/>
                 </fileset>
             </batchtest>
         </junit>
