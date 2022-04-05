@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/triangle/.mutated/.mutated.iml" filepath="$PROJECT_DIR$/triangle/.mutated/.mutated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle/lib/major/example/ant/ant.iml" filepath="$PROJECT_DIR$/triangle/lib/major/example/ant/ant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cs520.iml" filepath="$PROJECT_DIR$/.idea/cs520.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle/lib/major/example/example.iml" filepath="$PROJECT_DIR$/triangle/lib/major/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tictactoe/tictactoe.iml" filepath="$PROJECT_DIR$/tictactoe/tictactoe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle/triangle.iml" filepath="$PROJECT_DIR$/triangle/triangle.iml" />
+    </modules>
+  </component>
+</project>
